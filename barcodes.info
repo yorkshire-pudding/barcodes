@@ -2,6 +2,10 @@ name = Barcodes
 description = Generate barcodes
 type = module
 backdrop = 1.x
+
+maintainers[yorkshire-pudding] = Martin Price
+maintainers_wanted = TRUE
+
 package = Fields
 
 tags[] = Content
